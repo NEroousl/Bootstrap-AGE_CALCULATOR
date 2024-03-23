@@ -3,6 +3,6 @@ This is a simple web-based Age Calculator built using JavaScript and Bootstrap. 
 
 ## Features:
 
-Input field for date of birth
-Calculation of age in years, months, and days
-Clean and responsive design using Bootstrap
+* Input field for date of birth
+* Calculation of age in years, months, and days
+* Clean and responsive design using Bootstrap
