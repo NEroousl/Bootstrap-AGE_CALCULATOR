@@ -10,7 +10,7 @@
     background-position: center;
 }
 
-#logo_codeAlpha{
+#logo_geekhub{
     width: 75px;
     border-radius: 0.3rem;
 }
@@ -25,7 +25,7 @@
         font-size: 75%;
     }
 
-    #logo_codeAlpha{
+    #logo_geekhub{
         width: 20%;
     }
 }
@@ -40,7 +40,7 @@
         font-size: 75%;
     }
 
-    #logo_codeAlpha{
+    #logo_geekhub{
         width: 20%;
     }
 }
