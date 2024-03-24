@@ -12,5 +12,6 @@ This is a simple web-based Age Calculator built using JavaScript and Bootstrap. 
 Connect me via LinkedIn https://www.linkedin.com/in/malinda-vitharana-b91255224/
 
 
-![2024-03-24 17_38_20-](https://github.com/NEroousl/CodeAlpha_AGE_CALCULATOR/assets/96795111/716f7077-1cd7-4490-a799-310d101cb41f)
+![image](https://github.com/NEroousl/Bootstrap-AGE_CALCULATOR/assets/96795111/a15c3152-2d17-4a69-9ec4-6de210985d42)
+
 
