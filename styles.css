@@ -1,0 +1,46 @@
+* {
+    transition: 0.3s !important;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main_container{
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d53788113898251.6030e9797e967.png'); background-size:cover;
+    background-position: center;
+}
+
+#logo_codeAlpha{
+    width: 75px;
+    border-radius: 0.3rem;
+}
+
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+    
+    #footer_container{
+        margin-top: 2rem;
+        font-size: 75%;
+    }
+
+    #logo_codeAlpha{
+        width: 20%;
+    }
+}
+
+@media (max-width: 576px) {
+    #aside_a {
+        border: none !important;
+    }
+
+    #footer_container{
+        margin-top: 2rem;
+        font-size: 75%;
+    }
+
+    #logo_codeAlpha{
+        width: 20%;
+    }
+}
