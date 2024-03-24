@@ -1,5 +1,9 @@
 const form = document.getElementById('ageCalculatorForm');
 const resultDiv = document.getElementById('result');
+const today = document.getElementById('today');
+const yearDiv = document.getElementById('year');
+const monthDiv = document.getElementById('result');
+const dayDiv = document.getElementById('result');
 
 form.addEventListener('submit', function (event) {
     event.preventDefault();
